@@ -8,7 +8,7 @@ Group: 6132-010402D.
 ## Solutions status
 
 - [x] Lab1. Pandas
-- [ ] Lab2. Data visualization
+- [x] Lab2. Data visualization
 - [ ] Lab3. Classification in SKlearn
 - [ ] Lab4. Decision Trees
 - [ ] Lab5. Catboost
